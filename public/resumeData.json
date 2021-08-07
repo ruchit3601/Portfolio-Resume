@@ -1,45 +1,37 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
+    "name": "Ruchit chudasama",
+    "occupation": "Web Developer",
     "description": "I eat, sleep and breathe React",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hi there! I'm Ruchit Chudasama! i've been coding for over 4 years now. Currently pursuing my BTech in Computer Science and Engineering from Vishwakarma Government Engineering College. I have done 1 internship and currently working on projects. Along with these I also have basic knowledge of algorithms and data structures, Currently exploring the field of web development. My passion is creativity and yes I combine my passion with my work. Through determined coding hours I have learnt the powers of C, C++, Python, Java, JS, Web Developement and many more tools. With this knowledge I would like to grow professionally as well as personally. Here's my portfolio, have a look at it and feel free to contact me ",
+    "contactmessage": "Get in touch with me to be a part of my coding family",
+    "email": "ruchitchudasama123@gmail.com",
+    "phone": "+91 8320265718",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "city": "Ahmedabad",
+      "state": "Gujarat"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "resumedownload": "",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/ruchit.chudadama",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/ruchit-chudasama-040070211",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/ruchit_3601/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/ruchit3601",
         "className": "fa fa-github"
       }
     ]
@@ -48,28 +40,48 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "Amrita Vidyalayam, Ahmedabad",
+        "degree": "SSC",
+        "graduated": "march 2020",
+        "description": "Scored 7.2 CGPA in SSC"
+      },
+      {
+        "school": "R.C. Technical Institute",
+        "degree": "Computer Engineering(diploma)",
+        "graduated": "june 2020",
+        "description": "Scored 8.9 CGPA in computer Eng."
+      },
+      {
+        "school": "Vishwakarma Goverement Engineering College",
+        "degree": "Bachelor's Degree, Computer Science and Technology",
+        "graduated": "june 2023",
+        "description": "Pursuing"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "ShapeAI",
+        "title": "FUll Stack Web Developer(intern)",
+        "years": "june 2021 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world!."
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "C",
         "level": "100%"
       },
       {
+        "name": "C++",
+        "level": "100%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
         "name": "Python",
-        "level": "85%"
+        "level": "65%"
       },
       {
         "name": "Git",
@@ -77,45 +89,48 @@
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "85%"
       },
       {
         "name": "Web Development",
-        "level": "95%"
+        "level": "88%"
+      },
+      {
+        "name": "GITHUB",
+        "level": "100%"
+      },
+      {
+        "name": "Data Structure & Algorithm",
+        "level": "75%"
+      },
+      {
+        "name": "Compitative Programing",
+        "level": "60%"
       }
+      
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Book-My-show Clone (React JS)",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "book-my-show.jpeg",
+        "url": "https://bookmyshow.vercel.app/"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "Task management(Tasky)",
         "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
-      },
-      {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "tasky.png",
+        "url": "https://project2-seven.vercel.app/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
-      },
-      {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "“We don't just build websites, we build websites that SELLS”",
+        "user": "Christopher Dayagdag"
       }
     ]
   }
